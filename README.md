@@ -1,2 +1,2 @@
-# DS_Assignment_1
-Data Science Assignment
+# DS_Assignments
+Data Science Assignment-1 added
